@@ -1,9 +1,3 @@
-/*
- * 	PAD云ERP前置服务器
- * 
- * (C) 版权所有：银联商务有限公司
- *             www.chinaums.com
- */
 package org.fire.spider.com.util;
 
 import java.text.ParseException;
@@ -11,13 +5,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * desc：时间日期工具类
- * 
- * @author <a href="mailto:hwchu@chinaums.com">楚洪武</a>
- *
- * @version SVN $Revision: 1.1 $ $Date: 2005/07/12 02:06:49 $
- */
 public class DateTools {
 	/**
 	 * 
